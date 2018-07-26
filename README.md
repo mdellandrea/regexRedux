@@ -6,4 +6,4 @@ $ go build -o rr regexRedux.go
 $ ./rr < regexReduxInput.txt
 ```
 
-This is an optimization on the winning Regex Redux program at [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/program/regexredux-go-2.html). In local testing it outperforms the winning version. This version can be found [here](https://benchmarksgame-team.pages.debian.net/benchmarksgame/program/regexredux-go-4.html).
+This is an optimization on the winning Regex Redux program at [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/program/regexredux-go-2.html). In local testing it outperforms the winning version. This version can be found on the The Computer Language Benchmarks Game [here](https://benchmarksgame-team.pages.debian.net/benchmarksgame/program/regexredux-go-4.html).
